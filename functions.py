@@ -12,7 +12,7 @@
 # display_message("Alice") # passing the value to your function
 
 
-# Adding two numbers
+
 
 def add_numbers(num1,num2):
     sum1 = num1 + num2
