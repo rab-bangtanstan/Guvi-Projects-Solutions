@@ -1,4 +1,3 @@
-
 # 20 Projects for Python basics
 1. Play Rock, Paper, and Scissors with Python
 2. Write a Python program that checks whether a user- entered password is correct and repeats the process until the correct password is given?
@@ -18,4 +17,5 @@
 18. Get the student name and marks, print the total of marks
 19. Find even and odd numbers from a list, and store them separately in a new list
 20. Append a data to the file
+
 
