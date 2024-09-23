@@ -9,4 +9,8 @@
 8. Story Generator with Python
 9. Python Program to Generate Password
 10. Dice Roll Simulator with Python
+11. Guess the number game
+12. BMI Calculator with Python
+15. Taking Screenshots using pyscreenshot in Python
+
 
